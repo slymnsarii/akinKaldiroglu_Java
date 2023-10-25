@@ -53,5 +53,6 @@ public class FloatingPoint {
         System.out.println("deneme");
         System.out.println("deneme123");
         System.out.println(doubleSum);
+        System.out.println("deneme432414321");
     }
 }
